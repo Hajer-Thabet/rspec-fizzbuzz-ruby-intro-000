@@ -5,6 +5,8 @@ def fizzbuzz(int)
     fizz_3="Fizz" # Go fizz
   elsif int % 5 == 0
     fizz_5="Buzz"
+  elsif int % 15 == 15
+    fizz_15="FizzBuzz"
 
 
   end
