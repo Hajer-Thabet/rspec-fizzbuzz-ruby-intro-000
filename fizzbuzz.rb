@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(int)
 
-  
+
   if int % 4 == 0
     fizz_4="nil"
   elsif int % 15 == 0
