@@ -25,7 +25,7 @@ def fizzbuzz(int)
 
 
   end
-  
+
 
 
 
