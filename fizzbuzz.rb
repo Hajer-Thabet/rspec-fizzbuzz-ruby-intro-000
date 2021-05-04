@@ -3,18 +3,18 @@
 def fizzbuzz(int)
   if int % 3 == 0 # if the number int is divisible by 3
     fizz_3="Fizz" # Go fizz
-  end
+  
 
   if int % 5 == 0 # if the number int is divisible by 5
     fizz_5="Buzz" # Go fizz
-  end
+  
 
 
 
 
   if (int % 3 == 0) && (int % 5 == 0)# if the number int is divisible by 3 and 5
       fizz_15="FizzBuzz"# Go fizzbuzz
-  end
+  
 
 
 
@@ -25,6 +25,7 @@ def fizzbuzz(int)
 
 
   end
+
 
 
 
