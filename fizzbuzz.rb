@@ -6,3 +6,9 @@ def fizzbuzz(int)
 
   end
 end
+ef fizzbuzz(int)
+  if int % 5 == 0 # if the number int is divisible by 3
+    fizz_5="Buzz" # Go fizz
+
+  end
+end
