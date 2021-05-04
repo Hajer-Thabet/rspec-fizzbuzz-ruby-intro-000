@@ -12,15 +12,15 @@ def fizzbuzz(int)
 
 
 
-    elsif (int % 3 == 0) && (int % 5 == 0)# if the number int is divisible by 3 and 5
+  if (int % 3 == 0) && (int % 5 == 0)# if the number int is divisible by 3 and 5
       fizz_15="FizzBuzz"# Go fizzbuzz
-    end
+  end
 
 
 
 
 
-  elsif int % 4 == 0 # if the number int is not divisible by 3 or 5
+  if int % 4 == 0 # if the number int is not divisible by 3 or 5
     fizz_4="nil" # Go fizz
 
 
