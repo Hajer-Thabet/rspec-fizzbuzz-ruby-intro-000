@@ -19,7 +19,7 @@ def fizzbuzz(int)
 
 
 
-
+  end
   if int % 4 == 0 # if the number int is not divisible by 3 or 5
     fizz_4="nil" # Go fizz
 
