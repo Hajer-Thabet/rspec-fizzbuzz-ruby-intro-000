@@ -11,7 +11,7 @@ def fizzbuzz(int)
 
 
   elsif int % 15 == 0 # if the number int is divisible by 3 and 5
-    fizz_15="FizzBuzz" # Go fizzbuzz
+    expect(fizz_15).to eq("FizzBuzz")# Go fizzbuzz
 
 
 
